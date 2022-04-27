@@ -7,8 +7,8 @@ const { NETWORK } = require(`${basePath}/constants/network.js`);
 const network = NETWORK.eth;
 
 // General metadata for Ethereum
-const namePrefix = "Crypto Referees Side";
-const description = "Crypto Referees side project is a free to mint NFT on the Ethereum blockchain to give a taste of all that new people what is it to come when the main project hit OpenSea Market as Crypto Referees Genesis Collection";
+const namePrefix = "Out of this world Guys";
+const description = "Out of this world Guys project is a free to mint NFT on the Ethereum blockchain part of Crypto Referees";
 const baseUri = "ipfs://NewUriToReplace"; // This will be replaced automatically
 
 // If you have selected Solana then the collection starts from 0 automatically
@@ -48,8 +48,8 @@ const LIMIT = 2; // Your API key rate limit
 const CHAIN = 'rinkeby'; // only rinkeby or polygon
 
 // REQUIRED CONTRACT DETAILS THAT CANNOT BE UPDATED LATER!
-const CONTRACT_NAME = 'Crypto Referees Side';
-const CONTRACT_SYMBOL = 'CRS';
+const CONTRACT_NAME = 'Out of this world Guys';
+const CONTRACT_SYMBOL = 'OTWR';
 const METADATA_UPDATABLE = true; // set to false if you don't want to allow metadata updates after minting
 const OWNER_ADDRESS = '0x7BEfCFD6094bcA59ea2983Ec480e3fADfFFE8680';
 const TREASURY_ADDRESS = '0x7BEfCFD6094bcA59ea2983Ec480e3fADfFFE8680';
